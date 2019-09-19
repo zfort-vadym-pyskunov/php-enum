@@ -1,0 +1,23 @@
+{
+    "name": "kuznetsov-zfort/php-enum",
+    "description": "Fork of laravelflux/php-enum",
+    "license": "MIT",
+    "keywords": ["laravel", "enum"],
+    "authors": [
+        {
+            "name": "Gary Kuznetsov",
+            "email": "kuznetsov@zfort.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1",
+        "laravelflux/php-enum": "*",
+        "illuminate/support": "5.7.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "KuznetsovZfort\\PhpEnum\\": "src/"
+        }
+    }
+}
