@@ -3,7 +3,6 @@
 namespace KuznetsovZfort\PhpEnum;
 
 use Illuminate\Support\Collection;
-use LaravelFlux\Enum\BaseEnum;
 
 abstract class AbstractEnum extends BaseEnum
 {

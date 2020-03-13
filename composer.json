@@ -12,7 +12,6 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.1",
-        "laravelflux/php-enum": "*",
         "illuminate/support": "5.7.*"
     },
     "autoload": {
