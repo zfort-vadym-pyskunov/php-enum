@@ -1,5 +1,5 @@
 {
-    "name": "kuznetsov-zfort/php-enum",
+    "name": "zfort-vadym-pyskunov/php-enum",
     "description": "Fork of laravelflux/php-enum",
     "license": "MIT",
     "keywords": ["laravel", "enum"],
